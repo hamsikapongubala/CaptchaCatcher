@@ -23,7 +23,7 @@ Run the following to activate and create your virtual environment
     
 Pull the repository
 
-    git pull 
+    git pull git@github.com:hamsikapongubala/CaptchaCatcher.git
 
 Run:
 
