@@ -8,12 +8,27 @@
     OpenCV
     Tensorflow
     Keras
+    
+### Try it out!
+
+Download virtualenv
+
+    python3 -m pip install --user virtualenv
+
+Run the following to activate and create your virtual environment
+
+    python3 -m venv env
+    source env/bin/activate
+    cd env
+    
+Pull the repository
+
+    git pull 
 
 Run:
 
     pip3 install -r requirements.txt
-
-
+    
 ### Extract single letters from the training_data which contains Captcha Images
 Run: 
 
