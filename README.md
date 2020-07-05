@@ -37,4 +37,9 @@ Run:
 
 python3 solve_captchas_with_model.py
 
-### Made by following https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/
+### Made by following
+
+https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/
+
+https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
+
