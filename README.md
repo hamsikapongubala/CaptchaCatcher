@@ -1,6 +1,6 @@
 # CaptchaCatcher
 
-## Using Machine Learning to crack Captcha Images
+## Using Machine Learning to Crack Captcha Images
 
 ### Dependencies
 
