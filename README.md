@@ -4,20 +4,20 @@
 
 ### Dependencies
 
-Python 3
-OpenCV
-Tensorflow
-Keras
+    Python 3
+    OpenCV
+    Tensorflow
+    Keras
 
 Run:
 
-pip3 install -r requirements.txt
+    pip3 install -r requirements.txt
 
 
 ### Extract single letters from the training_data which contains Captcha Images
 Run: 
 
-python3 extract_letters.py
+    python3 extract_letters.py
 
 The results are stored in the "extracted_letters" folder.
 
@@ -26,7 +26,7 @@ The results are stored in the "extracted_letters" folder.
 
 Run:
 
-python3 train_model.py
+    python3 train_model.py
 
 This will write out "captcha_model.hdf5" and "model_labels.dat"
 
