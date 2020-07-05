@@ -31,11 +31,11 @@ python3 train_model.py
 This will write out "captcha_model.hdf5" and "model_labels.dat"
 
 
-### Use the model to solve CAPTCHAs!
+### Using the model
 
 Run: 
 
-python3 solve_captchas_with_model.py
+
 
 ### Made by following
 
